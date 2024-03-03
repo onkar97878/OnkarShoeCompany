@@ -23,3 +23,5 @@ pushing and pulling the committment time to time
 hahhahhhaaa!!!!!!!!!!!!!!! I am a good boy:)
 now its tome to focus on model section
 In the Models folder > Add > Class. Name the file Shoe.cs.
+afterdbcontext, doing some changes in appsettings.json
+and now its time to add a new scallfold item
