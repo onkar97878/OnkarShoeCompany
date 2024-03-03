@@ -2,3 +2,6 @@ Well, everything going hard in starting it took me 3 hrs to install this system 
 Righ now, the first thing I did that was coomented the 7th line in Properties folder to show the Welcome page and following your slides giving me assistance too...
 After that adding txt for readme
 Adding controller, with following instructions
+After experiments all the parts of controller section
+I moved to view section where I have to  do some modifications,example I replaced the index section in hellwordcontroller
+Now, its time to add a view:)
