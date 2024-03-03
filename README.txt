@@ -11,3 +11,15 @@ Now the replace the content of the Views/Shared/_layout.cshtml fie with the givi
 Doing some changes in _layout.cshtml giving my app name that is shoe app in the place of Movie app.....
 I forget to adding that I did aboutus page too with privacy and homepage and its working:)
 Doing some changes in  the Views/HelloWorld/Index.cshtml view file.
+Here its workingg.....
+Going everything smoothly, I am going to washroom now
+feel free::::
+Try hello rick, dont want to do changes:(
+Its turn to add a model:)
+hihiiiiiiiiiiii!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Save all the changes 
+focusing on github toooo
+pushing and pulling the committment time to time
+hahhahhhaaa!!!!!!!!!!!!!!! I am a good boy:)
+now its tome to focus on model section
+In the Models folder > Add > Class. Name the file Shoe.cs.
