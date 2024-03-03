@@ -5,3 +5,5 @@ Adding controller, with following instructions
 After experiments all the parts of controller section
 I moved to view section where I have to  do some modifications,example I replaced the index section in hellwordcontroller
 Now, its time to add a view:)
+before adding the index method
+The first thing is adding a folder in a views folder named as HelloWorld and then copy and paste the index code from giving tutorial and then run that and getting smile on face:)))
